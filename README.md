@@ -8,4 +8,4 @@ http://www.mheducation.com/lak2016/
 * Introduction
 * Exploratory Data Analysis
 * Predictive Models
-* Data Analysis and Apache Spark
+* Data Analysis with Apache Spark
